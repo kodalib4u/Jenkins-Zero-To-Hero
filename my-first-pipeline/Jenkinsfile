@@ -9,6 +9,7 @@ pipeline {
       }
       steps {
         sh 'Updated to check the hook'
+        sh 'change1'
       }
     }
   }
