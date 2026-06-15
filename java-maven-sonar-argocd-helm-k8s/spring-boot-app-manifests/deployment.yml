@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: kodalib4u/ultimate-cicd:31
+        image: kodalib4u/ultimate-cicd:32
         ports:
         - containerPort: 8080
